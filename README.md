@@ -42,7 +42,7 @@ A robot system specialized for airports that provides **Leading/Following guidan
 | Name | Role | Responsibilities |
 |---|---|---|
 | **Jineon Kim** | Team Lead | Tracking, Main Service, Data Service |
-| **Donghun Lee** | Member | Chat Service (LLM), Admin GUI, DB |
+| **Donghun Lee** | Member | Chat Service (LLM), Admin GUI, DB, SLAM/Mapping |
 | **Dongyeon Lee** | Member | User GUI, Communication Interfaces, Testing |
 | **Younghun Yoo** | Member | Main Controller navigation, SLAM/Mapping |
 
